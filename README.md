@@ -1,11 +1,13 @@
-# anomaly_detection
+# anomaly detection
 it is an anomal detection application in univariate time series.
 
 it was a project for a course and i developed with my project partner.
 
 used PyQt5 for front-end.
 
-You can see some screen-shots from application below:
+you can use this on every data set, however one column of this data set must have tha name 'timestamp'. 
+
+you can see some screen-shots from application below:
 
 ![image](https://github.com/ugurcakil/anomaly_detection/assets/105079912/7f1545e9-ac9c-42f3-bcaf-8be6ef712420)
 
